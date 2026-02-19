@@ -1,0 +1,9 @@
+[submodule "DistroBoxes"]
+	path = DistroBoxes
+	url = https://github.com/kai-bruell/DistroBoxes
+[submodule "Chezmoi-Dotfiles"]
+	path = Chezmoi-Dotfiles
+	url = https://github.com/kai-bruell/Chezmoi-Dotfiles
+[submodule "BlueBuild"]
+	path = BlueBuild
+	url = https://github.com/kai-bruell/BlueBuild
