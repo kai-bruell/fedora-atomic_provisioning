@@ -16,6 +16,7 @@ FLATPAKS=(
     org.keepassxc.KeePassXC
     org.libreoffice.LibreOffice
     com.github.xournalpp.xournalpp
+    com.moonlight_stream.Moonlight
 )
 
 BOXES=(
